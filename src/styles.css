@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+
+.box {
+  height: 200px;
+  width: 200px;
+  margin: 2rem;
+  background-color: yellow;
+}
+
+.task {
+  height: 50px;
+  width: 100px;
+  margin: 2rem;
+  background-color: blue;
+}
